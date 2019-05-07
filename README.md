@@ -22,7 +22,7 @@ A massive part of solving a bug is just about reproducing it, which just means b
 
 ### Why do I need to sign up for an account here?
 
-GitHub's an awesome site that's really well-suited for bug tracking. It'll keep things more organized than having bug bug discussions, feature requests, memes, announcement posts, and more all in the subreddit. Having to sign up for an account is super quick though and helps cut down on spam, so it's worth it, trust me! [Sign Up](https://github.com/)
+GitHub's an awesome site that's really well-suited for bug tracking. It'll keep things more organized than having bug discussions, feature requests, memes, announcement posts, and more all in the subreddit. Having to sign up for an account is super quick though and helps cut down on spam, so it's worth it, trust me! [Sign Up](https://github.com/)
 
 ### What if I have a feature request, not a bug report?
 
@@ -34,4 +34,4 @@ Of course! But please try to stay on topic to the specific bug report, so contri
 
 ### Am I not allowed to post bugs to the subreddit (r/ApolloApp)?
 
-You totally can if you feel like it'd be wortwhile for discussion or some other reason, but GitHub is the preferred place if you're able to (again, just to keep everything organized).
+You totally can if you feel like it'd be worthwhile for discussion or some other reason, but GitHub is the preferred place if you're able to (again, just to keep everything organized).
